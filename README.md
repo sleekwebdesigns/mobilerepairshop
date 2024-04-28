@@ -1,2 +1,0 @@
-# mobilerepairshop
-My awesome repository
